@@ -1,4 +1,3 @@
-# Computer-Network-Simulation-using-Graph-and-Stack
 # Computer Network Simulation using Graph and Stack
 
 ## Overview
